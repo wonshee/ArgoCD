@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: wonshee/argocd:7a7115b
+        image: wonshee/argocd:b3abbfd
